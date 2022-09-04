@@ -18,6 +18,6 @@
     </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=mendeeislife&show_icons=true&theme=react&border_color=800080&title_color=800080&text_color=800080&icon_color=24c20c&bg_color=0D1117" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=mendeeislife&show_icons=true&theme=react&border_color=800080&title_color=800080&text_color=800080&icon_color=24c20c&bg_color=0D1117&hide_title=true" />
     </a>
 </div>
