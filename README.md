@@ -8,4 +8,4 @@
   <img width="720" height="auto" src=src/mdr.gif>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mendeeislife&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
+![mendeeislife's GitHub stats](https://github-readme-stats.vercel.app/api?username=mendeeislife&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide=contribs,prs,stars,issues)
