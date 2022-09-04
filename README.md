@@ -57,7 +57,7 @@
     <img
       align="right"
       width="390"
-      src="https://github-readme-stats.vercel.app/api?username=mendeeislife&show_icons=true&theme=react&border_color=800080&title_color=24c20c&text_color=800080&icon_color=24c20c&bg_color=0D1117&custom_title=ＭｅｎｄｅｅＩｓＬｉｆｅ悪魔"/>
+      src="https://github-readme-stats.vercel.app/api?username=mendeeislife&show_icons=true&theme=react&border_color=800080&title_color=24c20c&text_color=800080&icon_color=24c20c&bg_color=0D1117&custom_title=ＭｅｎｄｅｅＩｓＬｉｆｅ悪魔" />
   </a>
   <br /><br /><br /><br /><br /><br />
   <img
