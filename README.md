@@ -14,6 +14,6 @@
 <br>
 <div align=center>
   <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=mendeeislife&theme=react&border=800080&hide_border=true" alt="mendeeislife" />
+      <img align="left" width=390 src="[https://github-readme-streak-stats.herokuapp.com/?user=mendeeislife&theme=react&border=800080&hide_border=true](https://github-readme-streak-stats.herokuapp.com?user=mendeeislife&theme=hacker&background=0D1117&stroke=800080&border=800080&ring=800080&dates=800080)" alt="mendeeislife" />
     </a>
 </div>
