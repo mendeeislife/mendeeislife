@@ -6,7 +6,7 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.facebook.com/mendeeislife/" title="Facebook Profile" style="color: #800080"><img width="22" src="src/facebook.svg"> Facebook</a></code>
+  <code><a href="https://www.facebook.com/mendeeislife/" title="Facebook Profile" color="#800080"><img width="22" src="src/facebook.svg"> Facebook</a></code>
   <code><a href="https://www.instagram.com/mendeeislife/" title="Instagram Profile" style="color: #800080"><img width="22" src="src/instagram.svg"> Instagram</a></code>
 </h5>
 
