@@ -5,6 +5,14 @@
   </a>
 </h1>
 
+<h5 align="center">
+  <code><a href="https://www.instagram.com/mendeeislife/" title="Instagram Profile"><img width="22" src="src/facebook.svg"> Facebook</a></code>
+  <code><a href="https://www.instagram.com/mendeeislife/" title="Instagram Profile"><img width="22" src="src/instagram.svg"> Instagram</a></code>
+</h5>
+
+
+
+
 <div align="center">
   <img width="720" height="auto" src=src/mdr.gif>
 </div>
