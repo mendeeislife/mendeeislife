@@ -6,7 +6,6 @@
 
 <div align="center">
   <img width="720" height="auto" src=src/mdr.gif>
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=mendeeislife&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide=contribs,prs,stars,issues" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendeeislife&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=tokyonight" />
+  ![mendeeislife's GitHub stats](https://github-readme-stats.vercel.app/api?username=mendeeislife&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide=contribs,prs,stars,issues)
 </div>
 
