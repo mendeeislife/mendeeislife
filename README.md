@@ -15,6 +15,7 @@
 
 <div align="center">
   <img width="720" height="auto" src=src/mdr.gif>
+  about here
 </div>
 <hr>
 
@@ -31,5 +32,10 @@
   <br><br><br><br><br><br>
   <img src="https://activity-graph.herokuapp.com/graph?username=mendeeislife&theme=react-dark&bg_color=0d1117&color=800080&line=800080&point=24c20c&custom_title=mendeeislife&hide_border=true&hide_title=true" width="100%"/>
 </div>
+<hr>
 
+<div align="center">
+  <img width="720" height="auto" src=src/shrngn.gif>
+  contact here
+</div>
 
