@@ -15,7 +15,7 @@
 
 <div align="center">
   <img width="720" height="auto" src=src/mdr.gif>
-  about here
+  //about here
 </div>
 <hr>
 
@@ -36,6 +36,6 @@
 
 <div align="center">
   <img width="720" height="auto" src=src/shrngn.gif>
-  contact here
+  //contact here
 </div>
 
