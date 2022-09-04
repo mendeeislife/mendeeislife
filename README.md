@@ -18,7 +18,7 @@
 </div>
 <hr>
 
-<h2 align="center" style="color: #800080">💠 Stats 💠</h2>
+<h2 align="center" style="color: purple">💠 Stats 💠</h2>
 <br>
 <div align=center>
   <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
