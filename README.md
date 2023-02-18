@@ -27,7 +27,7 @@
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=mendeeislife&show_icons=true&theme=react&border_color=800080&title_color=24c20c&text_color=800080&icon_color=24c20c&bg_color=0D1117&custom_title=ＭｅｎｄｅｅＩｓＬｉｆｅ悪魔" />
     </a>
   <br><br><br><br><br><br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=mendeeislife&theme=react-dark&bg_color=0d1117&color=800080&line=800080&point=24c20c&custom_title=mendeeislife&hide_border=true&hide_title=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mendeeislife&theme=react-dark&bg_color=0d1117&color=800080&line=800080&point=24c20c&custom_title=mendeeislife&hide_border=true&hide_title=true" width="100%"/>
 </div>
 <hr>
 
